@@ -1,14 +1,14 @@
 ---
-name: Han
-surname: Zhang
-position: "Postdoctoral Research Fellow"
-address: "Department of Psychology, University of Michigan"
-www: sites.lsa.umich.edu/hanzh
-email: "hanzh@umich.edu"
-#orcid: 0000-0001-6087-0428
-researchgate: Han_Zhang175
-github: HanZhang-psych
-twitter: \_HanZhang_
+name: Zhijun
+surname: Wang
+position: "PhD Candidate"
+address: "Food Quality and Design Group, Wageningen University & Research"
+www: wur.nl/en/Persons/Zhijun-Z-Zhijun-Wang.htm
+email: "zhijun0916@gmai.com"
+#orcid: 0000-0002-9035-2362
+researchgate: Zhijun_Wang27
+Scholar: ZhijunWang
+Linkedin: ZhijunWang
 headcolor: 414141 # use black color
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
